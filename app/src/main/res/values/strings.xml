@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFirstGUI</string>
+    <string name="BubbleRed">Red</string>
+    <string name="BubbleBlue">Blue</string>
+    <string name="BubbleGreen">Green</string>
+    <string name="CheckBox">Bold</string>
+    <string name="Color">Color</string>
+
+
+
+
+</resources>
